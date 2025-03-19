@@ -14,6 +14,9 @@ git remote add origin https://github.com/seu-usuario/seu-repositorio.git
 ```
 #### Lembre-se de colar a URL do seu repositório
 
+##### Caso tenha aparecido "error: remote origin already exists" antes de prosseguir, acesse meu repositório que explica como consertar esse erro:
+##### [Error-remote-origin-como-consertar](https://github.com/Enzo-Camelo/Error-remote-origin-como-consertar)
+
 ## 5 - Em seguida digite:
 ```
 git add .
